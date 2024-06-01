@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">app 25.05.24</string>
+    <string name="title">Mobile coder</string>
+    <string name="message_button1">Кодировать в QR</string>
+    <string name="message_button2">Сканировать QR</string>
+    <string name="message_button3">Кодировать EAN13</string>
+    <string name="message_button4">Распознать QR</string>
+    <string name="take_photo">Получить фото</string>
+    <string name="stop_capture">Завершить запись</string>
+    <string name="result_scan">Результат сканирования</string>
+    <string name="start_capture">Начать запись</string>
+    <string name="hint_edText">Введите текст для кодирования</string>
+</resources>
